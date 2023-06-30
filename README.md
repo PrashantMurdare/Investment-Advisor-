@@ -19,12 +19,10 @@ Low Risk Companies -
 
 # Unique Findings
 We Can Advise Customers to invest  if their income available for investment is positive then into  Best Possible Companies  by following criteria 
-   
-    -  Advise him to invest in Companies in Moderate Risk Rating Investment Profiles.
-    -  Investing in Soybean Product Industry companies
-    -  Investing in Insurance & Energy Sector
-    -  Not to Invest in the Air transport & Reinsurance Industry
-
+- Advise him to invest in Companies in Moderate Risk Rating Investment Profiles.
+- Investing in Soybean Product Industry companies
+- Investing in Insurance & Energy Sector
+- Not to Invest in the Air transport & Reinsurance Industry
 
 # Challenges And Learnings
 - Some challenges we faced at connecting the  gspread sheet  & updating data from jupytor notebook to Google sheet  at that  time but we all worked together, explore various resources to find solutions,  and solved the problem.
